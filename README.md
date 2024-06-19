@@ -1,6 +1,6 @@
 <h1> 이름: 이우찬 학번: 202330120 </h1>
-오류:
-c:; cd 'c:\Users\이우찬\Desktop\final'; & 'C:\Program Files\Microsoft\jdk-21.0.2.13-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\이우찬\AppData\Roaming\Code\User\workspaceStorage\7f5c8e5af3e570404433a3a8dcdb2182\redhat.java\jdt_ws\final_b29f1da5\bin' 'Final' 
+오류:<br>
+c:; cd 'c:\Users\이우찬\Desktop\final'; & 'C:\Program Files\Microsoft\jdk-21.0.2.13-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\이우찬\AppData\Roaming\Code\User\workspaceStorage\7f5c8e5af3e570404433a3a8dcdb2182\redhat.java\jdt_ws\final_b29f1da5\bin' 'Final' <br>
 
 
 Markdown문법 3가지
